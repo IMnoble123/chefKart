@@ -7,7 +7,7 @@ an food plus chef cookery application Ui
 - provider as statemanagement
 - Mvvm folder structure
 ## Deployment
-https://drive.google.com/file/d/17KLiD9H0xH6MnRevFerLv1h_lZJ76UzQ/view?usp=share_link
+https://drive.google.com/file/d/17KLiD9H0xH6MnRevFerLv1h_lZJ76UzQ/view?usp=sharing
 
 ## Run Locally
 Clone the project
