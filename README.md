@@ -1,16 +1,24 @@
-# chefkart
+# ChefKart
+an food plus chef cookery application Ui
 
-A new Flutter project.
+## Features
+- Dishes listed
+- ParticularDishes list on bases
+- provider as statemanagement
+- Mvvm folder structure
+## Deployment
+https://drive.google.com/file/d/17KLiD9H0xH6MnRevFerLv1h_lZJ76UzQ/view?usp=share_link
 
-## Getting Started
+## Run Locally
+Clone the project
 
-This project is a starting point for a Flutter application.
+  git clone https://github.com/IMnoble123/chefKart.git
+Go to the project directory
 
-A few resources to get you started if this is your first Flutter project:
+  cd my-project
+  -Install dependencies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ -flutter pub get
+ -Start the server
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ -flutter run
