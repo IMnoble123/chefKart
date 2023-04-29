@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF941A</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGray">#8A8A8A</color>
+    <color name="colorGreen">#51C452</color>
+    <color name="colorTextFormFieldText">#979797</color>
+</resources>
