@@ -5,7 +5,7 @@ an food plus chef cookery application Ui
 - Dishes listed
 - ParticularDishes list on bases
 - provider as statemanagement
-- Mvvm folder structure
+- Mvc folder structure
 ## Deployment
 https://drive.google.com/file/d/17KLiD9H0xH6MnRevFerLv1h_lZJ76UzQ/view?usp=sharing
 
