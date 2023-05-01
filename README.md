@@ -16,9 +16,9 @@ Clone the project
 Go to the project directory
 
   cd my-project
-  -Install dependencies
+  - Install dependencies
 
- -flutter pub get
- -Start the server
+ - flutter pub get
+ - Start the server
 
- -flutter run
+ - flutter run
